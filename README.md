@@ -16,11 +16,11 @@
 
 # Доступ к уже развернотому сайту в рамках выполнения дипломной работы:
 - [https://dmeneylenkodiplom.ddns.net/] (https://dmeneylenkodiplom.ddns.net/)
-- [http://84.201.140.69] (http://84.201.140.69)
+- [http://194.87.161.178] (http://194.87.161.178)
 
 # Документация к API и примеры запросов:
 Документация и примеры запросов и ответов доступны после разворачивания проекта по ссылке:
-- [https://dmeneylenkodiplom.ddns.net/api/docs/] (https://dmeneylenkodiplom.ddns.net/api/docs/ )
+- [https://dmeneylenkodiplom.ddns.net/api/docs/] (https://dmeneylenkodiplom.ddns.net/api/docs/)
 
 # Как запустить проект локально:
 
