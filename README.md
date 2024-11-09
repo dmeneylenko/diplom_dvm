@@ -20,7 +20,7 @@
 
 # Документация к API и примеры запросов:
 Документация и примеры запросов и ответов доступны после разворачивания проекта по ссылке:
-- [https://dmeneylenkodiplom.ddns.net/api/docs/] (https://dmeneylenkodiplom.ddns.net/api/docs/)
+- [https://dmeneylenkodiplom.ddns.net/api/docs/] (https://dmeneylenkodiplom.ddns.net/api/docs/ )
 
 # Как запустить проект локально:
 
